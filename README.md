@@ -1,4 +1,4 @@
-##Using Manjaro Linux
+##Using Manjaro Linux.
 Feel free to update!
 
 Install pygame on your system to run the .py file 
