@@ -1,3 +1,6 @@
+
+![wallpaper_sample_screenshot](https://github.com/user-attachments/assets/c46a5371-fc46-4b77-9dcf-ba185a0be8c8)
+
 # Using Manjaro Linux.
 Feel free to update!
 
